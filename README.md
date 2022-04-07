@@ -1,3 +1,5 @@
+[![lledo-da's 42 stats](https://badge42.vercel.app/api/v2/cl1oal1bz009509l1t9l59qqm/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 ### Hi there 👋
 
 <!--
